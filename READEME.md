@@ -1,1 +1,0 @@
-# Implementation of Lead Programming Language
